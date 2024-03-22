@@ -2,7 +2,7 @@
 
 In this project, you will build a simple inventory management application for a single resource: books. Through your application, you will be able to visually display books, remove books from the inventory, and add new books to the inventory. This project will require heavy DOM manipulation in addition to a solid understanding of HTML and CSS.
 
-![Landing page example.](./assets/staticView.png)
+![Landing page example.](./assets/app.png)
 
 ## Purpose
 
@@ -98,7 +98,7 @@ There are no tests for this project and you _should not_ fork and clone this rep
 
 The following application chooses to use "books" as the main resource for this project.
 
-![Landing page example.](./assets/staticView.png)
+![Landing page example.](./assets/app.png)
 
 Upon loading the page, three books (i.e., resources) can be seen with the required fields. The form is also visible. The page is styled professionally and makes use of CSS Grid.
 
