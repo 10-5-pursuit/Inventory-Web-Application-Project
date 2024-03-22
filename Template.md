@@ -4,7 +4,7 @@
 
 <br/>
 <p align="center">
-    <img width="80%" src="/app.png" alt="Booktory Application Screenshot">
+    <img width="80%" src="assets/app.png" alt="Booktory Application Screenshot">
 </p>
 <br/>
 
